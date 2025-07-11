@@ -119,7 +119,5 @@ Users can input order details and receive a prediction instantly.
 - Streamlit
 - Jupyter Notebook
 
----
 
-## 📂 Project Structure
 
